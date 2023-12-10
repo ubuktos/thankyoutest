@@ -10,7 +10,7 @@
       function bge() {
         bgdataLayer.push(arguments);
       }
-      bge("init", "<?= $_GET['px']; ?>");
+      bge("init", "904062087103650048");
       bge('event', 'ec_register');  
     </script>
 
